@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
             title: Text("Tes Pertama"),
           ),
           body: Container(
-            color: Colors.grey,
+            color: Colors.blue,
             margin: EdgeInsets.all(10),
             padding: EdgeInsets.all(15),
             child: Container(
